@@ -1,0 +1,5 @@
+csv/
+env/
+test/
+
+.DS_Store
